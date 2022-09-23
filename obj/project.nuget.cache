@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PiLdSFiVIZmSWHz4LckNLfay3/qdTv8b5V3wwrnNo0GfAnv7WdPC7zVzv/njMeeRyX/bOJy044LiLzUwamN/NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\I am\\source\\repos\\BuySell0\\BuySell0.EmailSender\\BuySell0.EmailSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\I am\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\I am\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\I am\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\I am\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\I am\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\I am\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
